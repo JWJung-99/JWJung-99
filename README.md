@@ -1,7 +1,7 @@
 ## 공부하는 개발자, 정진욱
 
 - 🔭 최근 방향성 : 최적화의 늪 - 코드 성능 최적화, 사용자 경험 최적화
-- 🌱 요즘 공부 중인 분야: Next.js, Vitest, Cypress, Express
+- 🌱 요즘 공부 중인 분야 : Next.js, Vitest, Cypress, Express
 - 📔 블로그 : https://velog.io/@39busy/posts
 - 📫 이메일 : 39busy@naver.com
 - 🔗 Linkedin : www.linkedin.com/in/jwjung99
