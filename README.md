@@ -12,7 +12,7 @@
 | Project | Description | Github | Website |
 | --- | --- | --- | ---|
 | 📸 터치즈 | 스튜디오 예약 플랫폼 (React) | [Repository](https://github.com/JWJung-99/Toucheese-FE) | [바로가기](https://toucheese-flash.store/)|
-| ✈️ 트리플라이 | 항공권 예약 서비스 (Next.js)| [Repository](https://github.com/FRONTENDSCHOOLPLUS2/trifly) | [바로가기](https://trifly.vercel.app/) |
+| ✈️ 트리플라이 | 항공권 예약 서비스 (Next.js)| [Repository](https://github.com/JWJung-99/trifly) | [바로가기](https://trifly.vercel.app/) |
 | 👼 위시 | 난임 부부를 위한 AI 심리케어 서비스 (React)| [Repository](https://github.com/JWJung-99/kdt_frontend) | [바로가기](https://wish-test.netlify.app/) |
 | 🧘 쉼 | 음악 명상 & 커뮤니티 플랫폼 (React)| [Repository](https://github.com/JWJung-99/Shimm) | [바로가기](https://shimm.netlify.app/) |
 
