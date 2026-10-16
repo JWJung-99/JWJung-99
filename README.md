@@ -2,7 +2,7 @@
 
 - 🔭 최근 방향성 : 최적화의 늪 - 코드 성능 최적화, 사용자 경험 최적화
 - 🌱 요즘 공부 중인 분야 : Next.js, Vitest, Cypress, Express
-- 🗂️ 포트폴리오 : https://jinwook-jung.notion.site/1aea73a94baf800abeeef22e2095af85
+- 🗂️ 포트폴리오 : https://www.figma.com/proto/0F0rsO4JISWkPMtWGJvjOg/Resume?node-id=53-20&p=f&viewport=42%2C220%2C1.04&t=dQ3XMt84fFwvMlY8-1&scaling=min-zoom&content-scaling=fixed&page-id=53%3A16
 - 📔 블로그 : https://velog.io/@39busy/posts
 - 📫 이메일 : wlsdnr.dev@gmail.com
 - 🔗 Linkedin : www.linkedin.com/in/jwjung99
